@@ -1,0 +1,400 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "FuscaFilmes",
+    "version": "1.0"
+  },
+  "paths": {
+    "/diretor": {
+      "get": {
+        "tags": [
+          "DiretoresHandlers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Diretor"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "DiretoresHandlers"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Diretor"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/diretor/agregacao/{DiretorId}": {
+      "get": {
+        "tags": [
+          "DiretoresHandlers"
+        ],
+        "parameters": [
+          {
+            "name": "DiretorId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Diretor"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/diretor/{diretorId}": {
+      "put": {
+        "tags": [
+          "DiretoresHandlers"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Diretor"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "DiretoresHandlers"
+        ],
+        "parameters": [
+          {
+            "name": "diretorId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/filmes": {
+      "get": {
+        "tags": [
+          "FilmesHandlers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "patch": {
+        "tags": [
+          "FilmesHandlers"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FilmeUpdate"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/filmes/{id}": {
+      "get": {
+        "tags": [
+          "FilmesHandlers"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/filmesEFFunction/byName/{titulo}": {
+      "get": {
+        "tags": [
+          "FilmesHandlers"
+        ],
+        "parameters": [
+          {
+            "name": "titulo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/filmesLinQ/byName/{titulo}": {
+      "get": {
+        "tags": [
+          "FilmesHandlers"
+        ],
+        "parameters": [
+          {
+            "name": "titulo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/filmes/{filmeId}": {
+      "delete": {
+        "tags": [
+          "FilmesHandlers"
+        ],
+        "parameters": [
+          {
+            "name": "filmeId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/CreateDB": {
+      "get": {
+        "tags": [
+          "FuscaFilmes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Diretor": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "filmes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Filme"
+            },
+            "nullable": true
+          },
+          "diretoresFilmes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DiretorFilme"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DiretorFilme": {
+        "type": "object",
+        "properties": {
+          "diretorId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "diretor": {
+            "$ref": "#/components/schemas/Diretor"
+          },
+          "filmeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "filme": {
+            "$ref": "#/components/schemas/Filme"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Filme": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "titulo": {
+            "type": "string",
+            "nullable": true
+          },
+          "ano": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "diretores": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Diretor"
+            },
+            "nullable": true
+          },
+          "diretoresFilmes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DiretorFilme"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "FilmeUpdate": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "titulo": {
+            "type": "string",
+            "nullable": true
+          },
+          "ano": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

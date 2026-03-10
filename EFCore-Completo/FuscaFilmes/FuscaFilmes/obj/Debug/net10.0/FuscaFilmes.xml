@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FuscaFilmes</name>
+    </assembly>
+    <members>
+        <member name="T:FuscaFilmes.Migrations.inicial">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.inicial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.inicial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.inicial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:FuscaFilmes.Migrations.AdicionarDadosIniciais">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.AdicionarDadosIniciais.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.AdicionarDadosIniciais.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.AdicionarDadosIniciais.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:FuscaFilmes.Migrations.M2MCreatingCollection">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.M2MCreatingCollection.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.M2MCreatingCollection.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.M2MCreatingCollection.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:FuscaFilmes.Migrations.M2MCreateSeeds">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.M2MCreateSeeds.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.M2MCreateSeeds.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FuscaFilmes.Migrations.M2MCreateSeeds.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Program">
+            <summary>
+            Auto-generated public partial Program class for top-level statement apps.
+            </summary>
+        </member>
+    </members>
+</doc>
