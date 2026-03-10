@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\POO Construtor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5551AD-929D-41EA-91C5-86711568EE1A}|POO Construtor\\POO Construtor.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\poo construtor\\poo construtor\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5551AD-929D-41EA-91C5-86711568EE1A}|POO Construtor\\POO Construtor.csproj|solutionrelative:poo construtor\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5551AD-929D-41EA-91C5-86711568EE1A}|POO Construtor\\POO Construtor.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\poo construtor\\poo construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5551AD-929D-41EA-91C5-86711568EE1A}|POO Construtor\\POO Construtor.csproj|solutionrelative:poo construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\POO Construtor\\POO Construtor\\Filme.cs",
+              "RelativeDocumentMoniker": "POO Construtor\\Filme.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\POO Construtor\\POO Construtor\\Filme.cs",
+              "RelativeToolTip": "POO Construtor\\Filme.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:18:28.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\POO Construtor\\POO Construtor\\Program.cs",
+              "RelativeDocumentMoniker": "POO Construtor\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\POO Construtor\\POO Construtor\\Program.cs",
+              "RelativeToolTip": "POO Construtor\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:17:27.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

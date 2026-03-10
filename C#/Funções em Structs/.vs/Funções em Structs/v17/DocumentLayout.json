@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Fun\u00E7\u00F5es em Structs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C88E57A-316C-44F3-B3FA-B181D02F1E10}|Fun\u00E7\u00F5es em Structs\\Fun\u00E7\u00F5es em Structs.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\fun\u00E7\u00F5es em structs\\fun\u00E7\u00F5es em structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C88E57A-316C-44F3-B3FA-B181D02F1E10}|Fun\u00E7\u00F5es em Structs\\Fun\u00E7\u00F5es em Structs.csproj|solutionrelative:fun\u00E7\u00F5es em structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Fun\u00E7\u00F5es em Structs\\Fun\u00E7\u00F5es em Structs\\Program.cs",
+              "RelativeDocumentMoniker": "Fun\u00E7\u00F5es em Structs\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Fun\u00E7\u00F5es em Structs\\Fun\u00E7\u00F5es em Structs\\Program.cs",
+              "RelativeToolTip": "Fun\u00E7\u00F5es em Structs\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:11:28.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\OneDrive\\C#\\Aprendendo Structs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428E5E8E-0514-483D-8643-70AD2095C95E}|Aprendendo Structs\\Aprendendo Structs.csproj|c:\\users\\ccfel\\onedrive\\c#\\aprendendo structs\\aprendendo structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428E5E8E-0514-483D-8643-70AD2095C95E}|Aprendendo Structs\\Aprendendo Structs.csproj|solutionrelative:aprendendo structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\C#\\Aprendendo Structs\\Aprendendo Structs\\Program.cs",
+              "RelativeDocumentMoniker": "Aprendendo Structs\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\C#\\Aprendendo Structs\\Aprendendo Structs\\Program.cs",
+              "RelativeToolTip": "Aprendendo Structs\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:58:32.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

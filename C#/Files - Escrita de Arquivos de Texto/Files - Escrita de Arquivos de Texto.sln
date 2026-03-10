@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files - Escrita de Arquivos de Texto", "Files - Escrita de Arquivos de Texto\Files - Escrita de Arquivos de Texto.csproj", "{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCB3BE62-A053-4096-8E6A-9AE9A025AE76}
+	EndGlobalSection
+EndGlobal

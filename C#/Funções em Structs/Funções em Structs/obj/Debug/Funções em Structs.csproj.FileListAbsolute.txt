@@ -1,0 +1,8 @@
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\bin\Debug\Funções em Structs.exe.config
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\bin\Debug\Funções em Structs.exe
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\bin\Debug\Funções em Structs.pdb
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\obj\Debug\Funções em Structs.csproj.AssemblyReference.cache
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\obj\Debug\Funções em Structs.csproj.CoreCompileInputs.cache
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\obj\Debug\Funções em Structs.exe
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\obj\Debug\Funções em Structs.pdb
+C:\Users\ccfel\Documents\GitHub\Study-C-Sharp-.NET\C#\Funções em Structs\Funções em Structs\obj\Debug\Funções em Structs.exe.config

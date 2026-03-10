@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Files - Escrita de Arquivos de Texto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}|Files - Escrita de Arquivos de Texto\\Files - Escrita de Arquivos de Texto.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\files - escrita de arquivos de texto\\files - escrita de arquivos de texto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1447EC-D361-4AF3-B7D9-F01021E0A3DC}|Files - Escrita de Arquivos de Texto\\Files - Escrita de Arquivos de Texto.csproj|solutionrelative:files - escrita de arquivos de texto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Files - Escrita de Arquivos de Texto\\Files - Escrita de Arquivos de Texto\\Program.cs",
+              "RelativeDocumentMoniker": "Files - Escrita de Arquivos de Texto\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Files - Escrita de Arquivos de Texto\\Files - Escrita de Arquivos de Texto\\Program.cs*",
+              "RelativeToolTip": "Files - Escrita de Arquivos de Texto\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T16:42:12.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

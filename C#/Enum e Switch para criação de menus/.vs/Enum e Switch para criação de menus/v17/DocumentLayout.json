@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\OneDrive\\C#\\Enum e Switch para cria\u00E7\u00E3o de menus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267F683B-56B8-4709-8E51-22B7481DDF15}|Enum e Switch para cria\u00E7\u00E3o de menus\\Enum e Switch para cria\u00E7\u00E3o de menus.csproj|c:\\users\\ccfel\\onedrive\\c#\\enum e switch para cria\u00E7\u00E3o de menus\\enum e switch para cria\u00E7\u00E3o de menus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267F683B-56B8-4709-8E51-22B7481DDF15}|Enum e Switch para cria\u00E7\u00E3o de menus\\Enum e Switch para cria\u00E7\u00E3o de menus.csproj|solutionrelative:enum e switch para cria\u00E7\u00E3o de menus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\OneDrive\\C#\\Enum e Switch para cria\u00E7\u00E3o de menus\\Enum e Switch para cria\u00E7\u00E3o de menus\\Program.cs",
+              "RelativeDocumentMoniker": "Enum e Switch para cria\u00E7\u00E3o de menus\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\OneDrive\\C#\\Enum e Switch para cria\u00E7\u00E3o de menus\\Enum e Switch para cria\u00E7\u00E3o de menus\\Program.cs",
+              "RelativeToolTip": "Enum e Switch para cria\u00E7\u00E3o de menus\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:12:41.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

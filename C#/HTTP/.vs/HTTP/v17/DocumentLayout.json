@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\HTTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E014AEE-5DFE-470B-B59D-A548F2E7CD93}|HTTP\\HTTP.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\http\\http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E014AEE-5DFE-470B-B59D-A548F2E7CD93}|HTTP\\HTTP.csproj|solutionrelative:http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E014AEE-5DFE-470B-B59D-A548F2E7CD93}|HTTP\\HTTP.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\http\\http\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E014AEE-5DFE-470B-B59D-A548F2E7CD93}|HTTP\\HTTP.csproj|solutionrelative:http\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\HTTP\\HTTP\\Tarefa.cs",
+              "RelativeDocumentMoniker": "HTTP\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\HTTP\\HTTP\\Tarefa.cs",
+              "RelativeToolTip": "HTTP\\Tarefa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:46:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\HTTP\\HTTP\\Program.cs",
+              "RelativeDocumentMoniker": "HTTP\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\HTTP\\HTTP\\Program.cs",
+              "RelativeToolTip": "HTTP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T17:30:54.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

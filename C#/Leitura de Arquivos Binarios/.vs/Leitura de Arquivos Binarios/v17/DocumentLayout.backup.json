@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Leitura de Arquivos Binarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD81A419-390C-4FE3-B9D3-6F43C222BBE4}|Leitura de Arquivos Binarios\\Leitura de Arquivos Binarios.csproj|c:\\users\\ccfel\\documents\\github\\study-c-sharp-.net\\c#\\leitura de arquivos binarios\\leitura de arquivos binarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD81A419-390C-4FE3-B9D3-6F43C222BBE4}|Leitura de Arquivos Binarios\\Leitura de Arquivos Binarios.csproj|solutionrelative:leitura de arquivos binarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Leitura de Arquivos Binarios\\Leitura de Arquivos Binarios\\Program.cs",
+              "RelativeDocumentMoniker": "Leitura de Arquivos Binarios\\Program.cs",
+              "ToolTip": "C:\\Users\\ccfel\\Documents\\GitHub\\Study-C-Sharp-.NET\\C#\\Leitura de Arquivos Binarios\\Leitura de Arquivos Binarios\\Program.cs",
+              "RelativeToolTip": "Leitura de Arquivos Binarios\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T17:55:48.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
