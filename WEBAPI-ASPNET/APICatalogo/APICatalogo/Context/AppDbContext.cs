@@ -1,14 +1,14 @@
 ﻿using APICatalogo.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace APICatalogo.Context
 {
-    public class AppDbContext:DbContext 
+    public class AppDbContext : IdentityDbContext
     {
-
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) //construtor da classe AppDbContext, que recebe as opções de configuração do DbContext e as passa para a classe base
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options)
         {
-            
         }
 
         public DbSet<Categoria> Categorias { get; set; } //representando a tabela categorias do banco de dados

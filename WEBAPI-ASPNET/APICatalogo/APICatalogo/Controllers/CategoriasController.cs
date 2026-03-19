@@ -3,6 +3,7 @@ using APICatalogo.DTOs;
 using APICatalogo.DTOs.Mappings;
 using APICatalogo.Models;
 using APICatalogo.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +23,7 @@ namespace APICatalogo.Controllers
 
 
         [HttpGet]
+        [Authorize] //autorização para acessar o endpoint, ou seja, é necessário estar autenticado para acessar esse endpoint
         public ActionResult<IEnumerable<CategoriaDTO>> Get()
         {
             var categorias = _unitOfWork.CategoriaRepository.GetAll();

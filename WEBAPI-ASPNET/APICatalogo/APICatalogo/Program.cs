@@ -1,6 +1,7 @@
 using APICatalogo.Context;
 using APICatalogo.DTOs.Mappings;
 using APICatalogo.Repositories;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -25,6 +26,11 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>(); //registrando a unidade d
 
 builder.Services.AddAutoMapper(typeof(ProdutoDTOMappingProfile)); //registrando o AutoMapper no contêiner de serviços, para que ele possa ser injetado nos controladores e usado para mapear as entidades para os DTOs e vice-versa
 
+builder.Services.AddAuthentication("Bearer").AddJwtBearer(); //adicionando a autenticação JWT ao contêiner de serviços, para proteger as rotas da API
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>() //adicionando o Identity ao contêiner de serviços, para gerenciar os usuários e as funções da aplicação
+    .AddEntityFrameworkStores<AppDbContext>() //configurando o Identity para usar o contexto do banco de dados para armazenar os dados dos usuários e das funções
+    .AddDefaultTokenProviders(); //adicionando os provedores de token padrão do Identity, para gerar tokens de autenticação e autorização
 
 var app = builder.Build();
 
