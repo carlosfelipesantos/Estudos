@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace APICatalogo.Context
 {
-    public class AppDbContext : IdentityDbContext
+    public class AppDbContext : IdentityDbContext<ApplicationUser>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
@@ -13,6 +13,12 @@ namespace APICatalogo.Context
 
         public DbSet<Categoria> Categorias { get; set; } //representando a tabela categorias do banco de dados
         public DbSet<Produto> Produtos { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder); 
+         
+        }
 
     }
 }
